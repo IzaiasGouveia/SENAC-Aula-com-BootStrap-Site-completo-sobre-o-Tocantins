@@ -1,0 +1,72 @@
+.nav-top {
+    background-color: rgb(54 54 114) !important;
+}
+
+.nav-menu {
+    color: white !important;
+}
+.nav-item{
+    nav-right: auto;
+}
+
+.base {
+    text-align: center;
+    padding: 2em;
+    background-color: rgb(54 54 114) !important;
+    color: white;
+}
+
+.sec-pacotes {
+    margin-left: 13% !important;
+    margin-right: 0% !important;
+}
+
+.card {
+    margin-left: 1em !important;
+    margin-right: 7em !important;
+    margin-top: 1em !important;
+    padding: 10px !important;
+    margin-bottom: 1em !important;
+}
+
+.divisão {
+    background-color: rgb(54 54 114);
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(54 54 114);
+    color: white;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.formulario {
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 70em;
+    padding-bottom: 3em;
+    margin-right: 1em;
+}
+.email{
+    margin-bottom: 1em !important;
+}
+body {
+    overflow-x:hidden;
+}
+.roxo{
+    background-color: rgb(33, 33, 68);
+}
+.roxa{
+    background-color: rgb(33, 58, 68);
+}
+.baixo{
+    margin-bottom: 1em;
+}
+#botao{
+    margin-top: 1em !important;
+    margin-right: 47em !important;
+}
+.iconsocial{
+    width: 25%;
+}
